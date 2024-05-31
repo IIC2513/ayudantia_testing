@@ -1,21 +1,5 @@
 # T3-Back-24-1
 
-## Test
-
-Los comandos necesarios a realizar en la terminal son:
-
-```
-yarn add --dev jest yarn add --dev supertest 
-```
-
-Solo es posible ejecutar el siguiente comando una vez es definido en el 'script' en package.json
-
-```
-yarn test
-```
-
-Es necesario crear en postgres la nueva base de datos {process.env.DB_NAME}_test o no podrán ejecutar el script
-
 ## Ejecución
 
 [1] - [0.5 por cada uno]
